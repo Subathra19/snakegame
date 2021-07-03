@@ -13,8 +13,9 @@
 
 ### Installing Packages
 * Open terminal and write the following:
+    ```
     pip3 install pygame
-        
+    ```    
 ### How to Run app:
 * Clone the repository to your local machine.
 * Install the above given packages.
