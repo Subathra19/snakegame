@@ -1,24 +1,22 @@
 # Snake Game
-
-
-### Rules
-* Snake should not touch the boundaries or its body.
-
+The most classic game of all time is built with PyGame.
+* Objective: Catch the maximum number of food items
+* Rules: Snake should not touch the boundaries or its body.
 
 ### Prerequisites
 * Python 3.0
 
-### Packages required
-* pygame
+### Package required
+* PyGame
 
-### Installing Packages
+### Installing Package
 * Open terminal and write the following:
     ```
     pip3 install pygame
     ```    
 ### How to Run app:
 * Clone the repository to your local machine.
-* Install the above given packages.
+* Install the above given package.
 * Run snake.py.
 
 ### References:
