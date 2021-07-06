@@ -19,5 +19,10 @@ The most classic game of all time is built with PyGame.
 * Install the above given package.
 * Run snake.py.
 
+### Sample Screen
+<p align="center">
+  <img width="600" height="400" src="https://github.com/Subathra19/py_snake/blob/main/images/sample_screen.PNG">
+</p>
+
 ### References:
 * [Edureka](https://www.edureka.co/blog/snake-game-with-pygame/)
